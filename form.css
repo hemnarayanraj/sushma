@@ -1,0 +1,80 @@
+#A{
+	padding-top:50px;
+	border-bottom:1px solid blue;
+	border-top-left-radius:40px;
+	border-top-right-radius:40px;
+	overflow:hidden;
+	border-bottom-left-radius:40px;
+	border-bottom-right-radius:40px;
+	height:480px;
+	border-top:1px solid blue;
+	
+}
+#system{
+	color:white;
+}
+#login{
+	border:1px solid black;
+	background-color:#09F;
+	border-radius:30px;
+	height:250px;
+	width:450px;
+	overflow:hidden;
+	margin:auto;
+	
+}
+#B{
+	border-top-left-radius:40px;
+	border-top:1px solid blue;
+	border-bottom-left-radius:40px;
+	border-bottom-right-radius:40px;
+	border-top-right-radius:40px;
+	height:480px;
+	border-right:0px solid black;
+	border-bottom:1px solid blue;
+	background-color:yellow;
+}
+#eng{
+	padding-top:10px;
+	
+}
+#user{
+	color:silver;
+}
+#Department{
+	border-radius:2%;
+	border:5px solid blue;
+	background-color:black;
+	color:white;
+	padding-top:7px;
+	height:75px;
+	border-radius:20px;
+	overflow:hidden;
+}
+#fac{
+	height:50px;
+	width:275px;
+	color:white;
+	padding-top:6px;
+	margin-bottom:6px;
+	border-radius:20px;
+	font-size:20px;
+	border:1px solid red;
+	background-color:green;
+}
+
+
+#fac:hover{
+	height:50px;
+	width:275px;
+	color:white;
+	padding-top:6px;
+	margin-bottom:6px;
+	border-radius:20px;
+	font-size:20px;
+	border:1px solid red;
+	background-color:silver;
+}
+#copy{
+	color:white;
+}

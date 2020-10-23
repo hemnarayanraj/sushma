@@ -1,0 +1,128 @@
+#giya{
+	height:80px;
+	border:1px solid black;
+	background-color:silver;
+}
+.yoii{
+	text-size:50px;
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#hell0{
+	color:white;
+	text-shadow:1px 1px 2px black, 0 0 25px gray, 0 0 5px darkgray;
+	}
+#to{
+	height:519px;
+	overflow:hidden;
+	border:1px solid black;
+	background-color:gray;
+}
+#red{
+	height:520px;
+	overflow:hidden;
+	border:1px solid black;
+}
+.yoiie{
+	font-size:20px;
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px green, 0 0 5px darkred;
+}
+#noti{
+	font-family:"Arial Black", Gadget, sans-serif;
+	color: rgb(255, 145, 145);
+	font-size: 20px;
+	background-color:#069;
+	text-shadow: rgb(3, 3, 3) 2px 2px 7px;
+	height: 519px;
+	padding-top: 20px;
+	border:2px solid black;
+}
+#nepal{
+	overflow:hidden;
+	height:125px;
+	border-radius:10px;
+	width:300px;
+	box-shadow:1px 1px 1px black, 0 0 8px gray, 0 0 1px darkgray;
+}
+
+	
+#type{
+	background-color:red;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	height:70px;
+	border:2px solid red;
+}
+#type{
+				color:white;
+				 text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+#Giya{
+	margin-left:5%;
+	margin-right:5%;
+	box-shadow:3px 5px 7px #333;
+	border:1px solid white;
+}
+#Giya{
+	min-height:425px;
+	margin-top:0%;
+	padding:2px;
+	overflow:hidden;
+	background-color: #efefef;
+}
+#Giya111{
+	height:300px;
+}
+
+#Maya{
+	padding-top:20px;
+	border-radius:4%;
+	height:384px;
+	width:320px;
+	box-shadow: 1px 1px 2px white, 0 0 8px gray, 0 0 1px darkgray;
+}
+#Maya:hover{
+	padding-top:20px;
+	background-color:red;
+	border-radius:4%;
+	height:384px;
+	width:320px;
+}
+#u{
+	overflow:hidden;
+	border-radius:70%;
+	background-color:white;
+	height:210px;
+	width:180px;
+}
+#ne5{
+	padding-top:5px;
+	font-size:15px;
+	color:blue;
+	height:39px;
+	border-radius:10px;
+	width:100px;
+	background-color:white;
+}
+#ne5:hover{
+	color:white;
+	border:1px solid white;
+	padding-top:5px;
+	font-size:15px;
+	height:39px;
+	border-radius:10px;
+	width:100px;
+	background-color:black;
+}
+#come{
+	text-shadow:1px 5px 2px blue;
+	padding-top:6px;
+	box-shadow: 1px 1px 1px white, 0 0 5px gray, 0 0 1px darkgray;
+	border-radius:10px;
+	height:80px;
+	width:400px;
+	margin:auto;
+}

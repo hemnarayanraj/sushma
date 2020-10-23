@@ -1,0 +1,171 @@
+#nar{
+	min-height:55px;
+	background-color:#99F;
+	margin-top:5px;
+	padding-left:5%;
+	padding-right:5%;
+	margin-bottom:15px;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 100px;
+  font-size:30px;
+  border-radius:50%;
+  height:50px
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+ 
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 3px;
+  background-color: #999;
+  box-shadow:3px 5px 7px #666666;
+  border:1px solid black;
+  border-radius:2%;
+}
+
+/* Full-width textarea */
+.form-container textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+  min-height: 200px;
+}
+
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+  background-color: white;
+  font-size:20px;
+  color:black;
+  outline: none;
+}
+
+/* Set a style for the submit/send button */
+.form-container .btn {
+  background-color: blue;
+  color: white;
+  padding: 16px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+#na{
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+#more {display: none;}
+div.gallery {
+  border:5px solid white;
+  height:200px;
+  width:300px;
+  overflow:hidden;
+  margin-top:50px;
+  color: white;
+  box-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px darkblue;
+
+ 
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width:19.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 59.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#Rock{
+	background-color:silver;
+	height: 100px;
+	box-shadow:3px 5px 7px #666666;
+	border:1px solid black;
+}
+#Rock{
+	background-color:silver;
+	height: 100px;
+	box-shadow:3px 5px 7px #666666;
+	border:1px solid black;
+}
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
